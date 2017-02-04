@@ -26,7 +26,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: theme-sealicon-valley
 gems:
   - jekyll-feed
 exclude:
