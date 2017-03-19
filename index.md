@@ -3,5 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: Sealicon Valley Comics
+description: Sealicon Valley Comics rawr
+image: assets/blog_hello_world.png
 ---
 This is my home page

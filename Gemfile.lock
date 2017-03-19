@@ -4,9 +4,9 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
-    ffi (1.9.17)
+    ffi (1.9.18)
     forwardable-extended (2.6.0)
-    jekyll (3.4.0)
+    jekyll (3.4.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -17,10 +17,12 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-feed (0.8.0)
+    jekyll-feed (0.9.1)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-seo-tag (2.1.0)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -38,15 +40,16 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.23)
-    theme-sealicon-valley (0.1.0)
+    theme-sealicon-valley (0.1.7)
       jekyll (~> 3.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.4.0)
+  jekyll
   jekyll-feed (~> 0.6)
+  jekyll-seo-tag
   theme-sealicon-valley
   tzinfo-data
 
