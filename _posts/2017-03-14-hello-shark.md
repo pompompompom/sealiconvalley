@@ -13,4 +13,7 @@ related: [
 ]
 tags:
 - comics
+description: Shark the Investor Sealicon Valley Comics About Silicon Valley
+image: assets/comic_shark.png
+author: Sealicon Valley
 ---

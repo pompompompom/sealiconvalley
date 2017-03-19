@@ -13,4 +13,7 @@ related: [
 ]
 tags:
 - comics
+description: Bubble the Intern Sealicon Valley Comics About Silicon Valley
+image: assets/comic_bubble.png
+author: Sealicon Valley
 ---

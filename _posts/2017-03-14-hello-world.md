@@ -13,4 +13,7 @@ related: [
 ]
 tags:
 - comics
+description: Comic Hello World Sealicon Valley Comics About Silicon Valley
+image: assets/comic_helloworld.png
+author: Sealicon Valley
 ---

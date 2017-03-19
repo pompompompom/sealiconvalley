@@ -19,7 +19,23 @@ description: Sealicon Valley is a technology comic about Silicon Valley.
 baseurl: '' # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sealiconvalley
+twitter:
+  username: sealiconvalley
+
+facebook:
+  publisher: https://www.facebook.com/sealiconvalley
+  admins: https://www.facebook.com/yyriver
+
 github_username:  pompompompom
+author: Sealicon Valley
+social:
+  name: Sealicon Valley
+  links:
+    - https://twitter.com/sealiconvalley
+    - https://www.facebook.com/sealiconvalley
+    - https://www.instagram.com/sealiconvalley
+    - https://www.snapchat.com/add/sealiconvalley
+    - https://sealiconvalley.tumblr.com
 
 url: http://www.sealiconvalley.com
 

@@ -12,6 +12,9 @@ related: [
 ]
 tags:
 - blog
+description: Hello World Blog Sealicon Valley Comics About Silicon Valley
+image: assets/blog_hello_world.png
+author: Sealicon Valley
 ---
 <img src="BASE/assets/blog_hello_world.png" />
 

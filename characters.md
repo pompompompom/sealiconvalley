@@ -3,4 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: characters0
+title: Sealicon Valley Comics Characters
+description: Sealicon Valley Technology Comics About Silicon Valley
+image: assets/blog_hello_world.png
 ---

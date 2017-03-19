@@ -13,4 +13,7 @@ related: [
 ]
 tags:
 - comics
+description: Narwhal the Startup Founder Sealicon Valley Comics About Silicon Valley
+image: assets/comic_narwhal.png
+author: Sealicon Valley
 ---

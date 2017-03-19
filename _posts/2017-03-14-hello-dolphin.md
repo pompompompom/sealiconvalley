@@ -13,4 +13,7 @@ related: [
 ]
 tags:
 - comics
+description: Dolphin the Engineer Sealicon Valley Comics About Silicon Valley
+image: assets/comic_dolphin.png
+author: Sealicon Valley
 ---

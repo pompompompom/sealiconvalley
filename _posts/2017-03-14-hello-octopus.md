@@ -13,4 +13,7 @@ related: [
 ]
 tags:
 - comics
+description: Octopus the Designer Sealicon Valley Comics About Silicon Valley
+image: assets/comic_octopus.png
+author: Sealicon Valley
 ---

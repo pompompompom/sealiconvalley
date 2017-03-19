@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: Sealicon Valley Comics
-description: Sealicon Valley Comics rawr
+description: Sealicon Valley Technology Comics About Silicon Valley
 image: assets/blog_hello_world.png
 ---
 This is my home page
