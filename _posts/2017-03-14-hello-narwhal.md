@@ -2,8 +2,8 @@
 layout: post
 title:  "Narwhal the Startup Founder"
 date:   2017-03-14 00:00:03 -0800
-preview: "<img src=\"BASE/assets/comic_narwhal.png\" >"
-comic: "<img src=\"BASE/assets/comic_narwhal.png\" >"
+preview: BASE/assets/splash_narwhal.png
+comic: BASE/assets/comic_narwhal.png
 categories: comic
 related: [
 "Octopus the Designer",
@@ -13,7 +13,7 @@ related: [
 ]
 tags:
 - comics
-description: Narwhal the Startup Founder Sealicon Valley Comics About Silicon Valley
+description: Narwhal the Startup Founder by Sealicon Valley
 image: assets/comic_narwhal.png
 author: Sealicon Valley
 ---

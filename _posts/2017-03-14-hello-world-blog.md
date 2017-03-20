@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2017-03-14 01:17:15 -0800
-preview: "<img src=\"BASE/assets/blog_hello_world.png\" >"
+preview: BASE/assets/blog_hello_world.png
 categories: blog
 related: [
 "Octopus the Designer",
@@ -12,11 +12,11 @@ related: [
 ]
 tags:
 - blog
-description: Hello World Blog Sealicon Valley Comics About Silicon Valley
+description: Hello everyone, welcome to Sealicon Valley!
 image: assets/blog_hello_world.png
 author: Sealicon Valley
 ---
-<img src="BASE/assets/blog_hello_world.png" />
+<img itemprop="image"  src="BASE/assets/blog_hello_world.png" />
 
 Hello everyone, welcome to Sealicon Valley!
 

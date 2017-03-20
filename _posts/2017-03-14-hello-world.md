@@ -2,8 +2,8 @@
 layout: post
 title:  "Hello World"
 date:   2017-03-14 00:00:06 -0800
-preview: "<img src=\"BASE/assets/comic_helloworld.png\" >"
-comic: "<img src=\"BASE/assets/comic_helloworld.png\" >"
+preview: BASE/assets/comic_helloworld.png
+comic: BASE/assets/comic_helloworld.png
 categories: comic
 related: [
 "Octopus the Designer",
@@ -13,7 +13,7 @@ related: [
 ]
 tags:
 - comics
-description: Comic Hello World Sealicon Valley Comics About Silicon Valley
+description: Comic Hello World by Sealicon Valley
 image: assets/comic_helloworld.png
 author: Sealicon Valley
 ---

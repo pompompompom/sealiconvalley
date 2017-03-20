@@ -2,8 +2,8 @@
 layout: post
 title:  "New Gadgets"
 date:   2017-03-18 19:20:06 -0800
-preview: "<img src=\"BASE/assets/comic_newgadgets.png\" >"
-comic: "<img src=\"BASE/assets/comic_newgadgets.png\" >"
+preview: BASE/assets/comic_newgadgets.png
+comic: BASE/assets/comic_newgadgets.png
 categories: comic
 related: [
 "Hello World",
@@ -13,7 +13,7 @@ related: [
 ]
 tags:
 - comics
-description: Comic New Gadgets Sealicon Valley Comics About Silicon Valley
+description: New Gadgets by Sealicon Valley
 image: assets/comic_newgadgets.png
 author: Sealicon Valley
 ---
