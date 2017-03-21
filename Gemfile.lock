@@ -40,7 +40,7 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.23)
-    theme-sealicon-valley (0.1.9)
+    theme-sealicon-valley (0.2.2)
       jekyll (~> 3.4)
 
 PLATFORMS
