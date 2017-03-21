@@ -6,8 +6,8 @@ preview: BASE/assets/comic_helloworld.png
 comic: BASE/assets/comic_helloworld.png
 categories: comic
 related: [
-"Octopus the Designer",
-"Dolphin the Engineer",
+"New Gadgets",
+"Life Is Elsewhere",
 "Narwhal the Startup Founder",
 "Shark the Investor",
 ]

@@ -7,7 +7,7 @@ comic: BASE/assets/comic_newgadgets.png
 categories: comic
 related: [
 "Hello World",
-"Dolphin the Engineer",
+"Life Is Elsewhere",
 "Narwhal the Startup Founder",
 "Shark the Investor",
 ]
