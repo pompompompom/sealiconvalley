@@ -12,7 +12,7 @@ related: [
 ]
 tags:
 - blog
-description: Hello everyone, welcome to Sealicon Valley!
+description: Why do big companies choose to use a dark gradient background in their keynotes? Welcome to the Tech Talk by Sealicon Valley!
 image: assets/blog_hello_world.png
 author: Sealicon Valley
 ---
